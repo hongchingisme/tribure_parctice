@@ -1,1 +1,0 @@
-"# tribure_parctice" 
